@@ -1,7 +1,9 @@
-DIABETES PREDICTION
-    This project aims is to predict whether  a patient has diabetes or not using support vector machine. The data used in this project is a csv file ,
-    name diabetes.csv which has 768 rows and 9 columns having data that represent us that what features should be there to check that
-    a patient has diabetes or not
+DIABETES PREDICTION::-
+
+
+    This project aims is to predict whether  a patient has diabetes or not using support vector machine. The data used in this       project is a csv file ,
+    name diabetes.csv which has 768 rows and 9 columns having data that represent us that what features should 
+    be there to check that a patient has diabetes or not
  
  MODULES AND LIBRARIES::- 
             1)Numpy
@@ -16,7 +18,6 @@ CHECK THE ROWS AND COLUMNS::-
        Check the rows and columns and a outcome columns which will tell the data for diabetes or not
        
 COUNT NUMBER OF DATA::-
-
         Count the total data featuring the data for diabetecs and for non diabetec using the (value_count()) function
  
 SEPRATING THE DATA AND TABLE::-
