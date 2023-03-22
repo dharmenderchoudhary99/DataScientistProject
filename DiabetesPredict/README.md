@@ -16,6 +16,7 @@ CHECK THE ROWS AND COLUMNS::-
        Check the rows and columns and a outcome columns which will tell the data for diabetes or not
        
 COUNT NUMBER OF DATA::-
+
         Count the total data featuring the data for diabetecs and for non diabetec using the (value_count()) function
  
 SEPRATING THE DATA AND TABLE::-
