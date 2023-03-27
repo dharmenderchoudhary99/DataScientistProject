@@ -1,7 +1,7 @@
 DIABETES PREDICTION::-
 
 
-    This project aims is to predict whether  a patient has diabetes or not using support vector machine. The data used in this       project is a csv file ,
+    This project aims is to predict whether  a patient has diabetes or not using support vector machine. The data used in this  project is a csv file ,
     name diabetes.csv which has 768 rows and 9 columns having data that represent us that what features should 
     be there to check that a patient has diabetes or not
  
